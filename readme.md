@@ -251,10 +251,10 @@ Início
 Fim
 ~~~
 
-10. apagarContato(String matriz, String nome)
+10. exibeMenu(String opcao)
 
     - Descrição: Este procedimento lista as opções do Menu
-    - Nome: apagarContato(String matriz, String nome)
+    - Nome: exibeMenu(String matriz, String nome)
     - Tipo: void
 
 ~~~
